@@ -28,9 +28,9 @@
 #header {
 
     background: 
-        linear-gradient(
+        /* linear-gradient(
         rgba(52, 58, 64, 0.4), 
         rgba(52, 58, 64, 0.4)
-        ), 
+        ),  */
         url(imgs/header_old.jpeg) center center / cover no-repeat;
 }
