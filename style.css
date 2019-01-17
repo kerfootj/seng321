@@ -30,10 +30,6 @@
     text-justify: inter-word;
     padding: 0% 20% 0% 20%;
 }
-/* .text-center {
-    padding-top: 50px;
-    padding-bottom: 10px; 
-} */
 
 @media screen and (max-width: 1400px) {
     .text-body {
@@ -51,10 +47,6 @@
 
 .left-pad {
     padding-left: 8px;
-}
-
-.center {
-    text-align: center;
 }
 
 .navbar-brand:hover {
