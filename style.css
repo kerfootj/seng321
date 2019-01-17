@@ -1,7 +1,12 @@
-.text-header {
+.text-header-top {
     color: rgb(238, 241, 245);
-    size: 120px;
+    size: 70px;
     padding-top: 30px;
+}
+
+.text-header-bottom {
+    color: rgb(238, 241, 245);
+    size: 70px;
     padding-bottom: 30px;
 }
 
@@ -14,6 +19,14 @@
     text-align: justify; 
     text-justify: inter-word;
     padding: 0% 20% 0% 20%;
+}
+
+@media screen and (max-width: 800px) {
+    .text-body {
+        text-align: justify; 
+        text-justify: inter-word;
+        padding: 0% 12% 0% 12%;
+    }
 }
 
 .card-sub-title {
