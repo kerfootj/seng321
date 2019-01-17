@@ -4,6 +4,12 @@
     padding: 0% 20% 0% 20%;
 }
 
+.card-sub-title {
+    color: #24478f;
+    padding-top: 0px;
+    padding-bottom: 8px
+}
+
 #header {
     /* background: url(imgs/header.jpeg); */
     background: url(imgs/header.jpeg) center center / cover no-repeat;
