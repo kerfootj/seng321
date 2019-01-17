@@ -1,11 +1,21 @@
 .text-header-top {
     color: rgb(238, 241, 245);
+    text-shadow:
+        -1px -1px 1px rgb(52, 58, 64),
+        1px -1px 1px rgb(52, 58, 64),
+        -1px 1px 1px rgb(52, 58, 64),
+        1px 1px 1px rgb(52, 58, 64);
     size: 70px;
     padding-top: 30px;
 }
 
 .text-header-bottom {
     color: rgb(238, 241, 245);
+    text-shadow:
+        -1px -1px 1px rgb(52, 58, 64),
+        1px -1px 1px rgb(52, 58, 64),
+        -1px 1px 1px rgb(52, 58, 64),
+        1px 1px 1px rgb(52, 58, 64);
     size: 70px;
     padding-bottom: 30px;
 }
@@ -21,7 +31,7 @@
     padding: 0% 20% 0% 20%;
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 1400px) {
     .text-body {
         text-align: justify; 
         text-justify: inter-word;
