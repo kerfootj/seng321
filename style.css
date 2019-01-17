@@ -27,10 +27,5 @@
 }
 #header {
 
-    background: 
-        /* linear-gradient(
-        rgba(52, 58, 64, 0.4), 
-        rgba(52, 58, 64, 0.4)
-        ),  */
-        url(imgs/header.jpg) center center / cover no-repeat;
+    background: url(imgs/meeting.jpg) center center / cover no-repeat;
 }
