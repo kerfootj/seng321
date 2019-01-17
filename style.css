@@ -1,3 +1,9 @@
+.text_body {
+    text-align: justify; 
+    text-justify: inter-word;
+    padding: 0% 20% 0% 20%;
+}
+
 #header {
     /* background: url(imgs/header.jpeg); */
     background: url(imgs/header.jpeg) center center / cover no-repeat;
