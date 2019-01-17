@@ -1,4 +1,16 @@
-.text_body {
+.text-header {
+    color: rgb(238, 241, 245);
+    size: 120px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.text-sub-header {
+    color: rgb(238, 241, 245);
+    padding-bottom: 10px;
+}
+
+.text-body {
     text-align: justify; 
     text-justify: inter-word;
     padding: 0% 20% 0% 20%;
@@ -10,7 +22,15 @@
     padding-bottom: 8px
 }
 
+.left-pad {
+    padding-left: 8px;
+}
 #header {
-    /* background: url(imgs/header.jpeg); */
-    background: url(imgs/header.jpeg) center center / cover no-repeat;
+
+    background: 
+        linear-gradient(
+        rgba(52, 58, 64, 0.4), 
+        rgba(52, 58, 64, 0.4)
+        ), 
+        url(imgs/header.jpg) center center / cover no-repeat;
 }
