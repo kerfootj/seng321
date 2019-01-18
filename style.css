@@ -56,16 +56,17 @@ a.docs {
 
 .left-pad {
     padding-left: 8px;
+    color: rgb(184, 187, 190) !important;
 }
 
 .navbar-brand:hover {
-    color:rgb(161, 228, 236) !important;
-    text-shadow:
+    color:white !important;
+    /* text-shadow:
         -1px -1px 2px rgb(58, 102, 146),
         1px -1px 2px rgb(58, 102, 146),
         -1px 1px 2px rgb(58, 102, 146),
         1px 1px 2px rgb(58, 102, 146);
-}
+ */}
 
 a.anchor {
     display: block;
@@ -90,8 +91,8 @@ hr {
 
     background: 
         linear-gradient(
-        rgba(52, 58, 64, 0.4), 
-        rgba(52, 58, 64, 0.4)
+        rgba(52, 58, 64, 0.6), 
+        rgba(52, 58, 64, 0.6)
         ), 
         url(imgs/meeting.jpg) center center / cover no-repeat;
 }
