@@ -21,10 +21,14 @@ h2 {
         1px -1px 1px rgb(52, 58, 64),
         -1px 1px 1px rgb(52, 58, 64),
         1px 1px 1px rgb(52, 58, 64); */
-        -1px -1px 1px rgba(255, 48, 2, 0.824),
+        /* -1px -1px 1px rgba(255, 48, 2, 0.824),
         1px -1px 1px rgb(42, 254, 0),
         -1px 1px 1px rgb(0, 115, 230),
-        1px 1px 1px rgb(0, 122, 244);
+        1px 1px 1px rgb(0, 122, 244); */
+        -1px -1px 1px #5a7a29,
+        1px -1px 1px #5a7a29,
+        -1px 1px 1px rgb(52, 58, 64),
+        1px 1px 1px rgb(52, 58, 64);
     size: 70px;
     padding-top: 30px;
 }
@@ -36,10 +40,10 @@ h2 {
         1px -1px 1px rgb(52, 58, 64),
         -1px 1px 1px rgb(52, 58, 64),
         1px 1px 1px rgb(52, 58, 64); */
-        -1px -1px 1px rgba(255, 48, 2, 0.824),
-        1px -1px 1px rgb(42, 254, 0),
-        -1px 1px 1px rgb(0, 115, 230),
-        1px 1px 1px rgb(0, 122, 244);
+        -1px -1px 1px #5a7a29,
+        1px -1px 1px #5a7a29,
+        -1px 1px 1px rgb(52, 58, 64),
+        1px 1px 1px rgb(52, 58, 64);
     size: 70px;
     padding-bottom: 30px;
 }
@@ -51,10 +55,10 @@ h2 {
         1px -1px 0px rgb(52, 58, 64),
         -1px 1px 0px rgb(52, 58, 64),
         1px 1px 0px rgb(52, 58, 64); */
-        -1px -1px 1px rgba(255, 48, 2, 0.824),
-        1px -1px 1px rgb(42, 254, 0),
-        -1px 1px 1px rgb(0, 115, 230),
-        1px 1px 1px rgb(0, 122, 244);
+        -1px -1px 1px #5a7a29,
+        1px -1px 1px #5a7a29,
+        -1px 1px 1px rgb(52, 58, 64),
+        1px 1px 1px rgb(52, 58, 64);
     padding-bottom: 10px;
 }
 
