@@ -5,6 +5,9 @@ body {
     /* color: red; */
 }
 
+ul{
+    margin-left: 4em;
+}
 h2 {
     color: rgba(31, 42, 87, 0.701);
 }
